@@ -1,6 +1,6 @@
 cask "shiftchange" do
-  version "1.0.0"
-  sha256 "077bbff59075742f56ec75cb6a67ab5e3b9039a68e353278b2fdfda959466b55"
+  version "1.2.1"
+  sha256 "36fda5ef6dd795579e5eb9687a67aed6340a401c2f2883e7571dab5da895aa58"
 
   url "https://github.com/adamdexter/shiftchange/releases/download/v#{version}/ShiftChange-#{version}.dmg"
   name "ShiftChange"
